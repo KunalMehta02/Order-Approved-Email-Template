@@ -32,7 +32,7 @@ Steps
 
 Save your file as:
 
-order-approved.html
+index.html
 
 
 Open the folder in VS Code
